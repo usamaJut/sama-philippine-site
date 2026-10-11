@@ -1,0 +1,8 @@
+# build/deploy leftovers
+site.zip
+Users*logo_b64.txt
+.claude/
+node_modules/
+# large marketing exports
+marketing/output/
+marketing/**/frames/
